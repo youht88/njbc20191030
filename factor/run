@@ -1,0 +1,8 @@
+circom
+snarkjs setup
+snarkjs calculatewitness
+snarkjs proof
+cat circuit.circom
+cat input.json
+cat public.json
+snarkjs verify
